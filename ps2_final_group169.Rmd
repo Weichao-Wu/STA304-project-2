@@ -14,7 +14,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r}
 library(tidyverse)
 adata = read.csv("clean_data.csv")
-head(adata)
 ```
 
 #author: Xiaoran Zhang 1004115744; Haoji Ye 1004371967; Weichao Wu 1004542140
